@@ -1,0 +1,65 @@
+@import url("fonts.css");
+
+.dropdown {
+  width: 40px;
+}
+body {
+  font-family: Roboto;
+  font-weight: 100;
+  background: rgb(151, 139, 139);
+}
+.youtubelogo {
+  left: 60px;
+}
+.Home2 {
+  position: absolute;
+  left: 60px;
+}
+.Trending2 {
+  position: absolute;
+  left: 60px;
+}
+.Subscribe2 {
+  position: absolute;
+  left: 60px;
+}
+.Library2 {
+  position: absolute;
+  left: 60px;
+}
+.History2 {
+  position: absolute;
+  left: 60px;
+}
+.Videos2 {
+  position: absolute;
+  left: 60px;
+}
+.Watch2 {
+  position: absolute;
+  left: 60px;
+}
+.Liked2 {
+  position: absolute;
+  left: 60px;
+}
+.Show2 {
+  position: absolute;
+  left: 60px;
+}
+.subs {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 16px;
+}
+.Show-more2 {
+  position: absolute;
+  top: 685px;
+  left: 14px;
+}
+.premium {
+  position: absolute;
+  left: 60px;
+}
